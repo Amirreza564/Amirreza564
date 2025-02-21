@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmirrezaMiri
+- 👋 Hi, I’m Amirreza
 - 👀 I’m interested in trading, coding and basketball. 
 - 🌱 I’m currently learning Python, html,CSS and Crypto Trading. 
 - 💞️ I’m looking to collaborate on ...
